@@ -1,0 +1,6 @@
+WHITE_SCREEN = (255, 255, 255)
+WHITE = 'white'
+BLACK = 'black'
+WINDOW_SIZE = (600, 600)
+
+
